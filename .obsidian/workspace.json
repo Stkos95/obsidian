@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7d7ca1f7c2e2c7b1",
+        "id": "c96fbfd6e786712a",
         "type": "tabs",
         "children": [
           {
-            "id": "92a5eec8d0256f8a",
+            "id": "10ce9e0cdffa50e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hello.commit.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e8ee9cbba01ff56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello.commit.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello.commit.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hello.commit.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98ef5a20c6a22ec1",
+  "active": "3c053dea2fcefa0c",
   "lastOpenFiles": [
-    "hello.commit.md.md",
     "12.md",
+    "hello.commit.md.md",
     "asdfasfasf"
   ]
 }
